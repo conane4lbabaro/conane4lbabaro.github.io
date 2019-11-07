@@ -1798,6 +1798,18 @@ section.lazy-placeholder:after {
 .cid-rH39dT707i .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
+.cid-rH85p2DOLz {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rH85p2DOLz P {
+  color: #767676;
+}
+.cid-rH85p2DOLz .mbr-text,
+.cid-rH85p2DOLz .mbr-section-btn {
+  text-align: left;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #efefef;
